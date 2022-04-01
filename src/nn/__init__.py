@@ -1,0 +1,1 @@
+# info - based on https://github.com/TheIndependentCode/Neural-Network
